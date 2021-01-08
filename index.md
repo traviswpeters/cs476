@@ -1,7 +1,7 @@
 ---
 layout: default
 sitemap: false
-redirect_to:  https://www.traviswpeters.com/cs476-2020-spring/
+redirect_to:  https://www.traviswpeters.com/cs476-2021-spring/
 ---
 
 <h1>Redirecting...</h1>
